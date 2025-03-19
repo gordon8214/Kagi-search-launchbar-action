@@ -8,6 +8,8 @@
 	<string>com.gordonbyrnes.LaunchBar.action.KagiSearch</string>
 	<key>CFBundleName</key>
 	<string>Kagi Search</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.1</string>
 	<key>LBAbbreviation</key>
 	<string>k</string>
 	<key>LBDescription</key>
@@ -16,10 +18,12 @@
 		<string>Gordon Byrnes</string>
 		<key>LBEmail</key>
 		<string></string>
+		<key>LBSummary</key>
+		<string>Search Kagi with Search Suggestions</string>
 		<key>LBTwitter</key>
 		<string></string>
 		<key>LBWebsiteURL</key>
-		<string></string>
+		<string>https://github.com/gordon8214/Kagi-search-launchbar-action</string>
 	</dict>
 	<key>LBScripts</key>
 	<dict>
